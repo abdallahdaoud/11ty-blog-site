@@ -1,11 +1,13 @@
 ---
-title: A New Article
+title: A New Article ^_^
+description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae
+  delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio
+  aliquam?
 author: Unknown
 date: 2024-11-16
-# tags: post    # no need to add it where blog.json do that for us.
 image: /assets/blog/article-3.jpg
 imageAlt: This is a new test
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
 ---
 
 6. 
