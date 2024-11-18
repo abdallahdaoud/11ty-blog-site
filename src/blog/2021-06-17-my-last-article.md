@@ -1,11 +1,16 @@
 ---
-title: My Last Article
+title: My Last Article (;
+description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
+  Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae
+  delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio
+  aliquam?
 author: Kevin Powell
 date: 2021-06-17
-tags: ["post", "featured"]
+tags:
+  - post
+  - featured
 image: /assets/blog/article-2.jpg
 imageAlt: This is a test
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio aliquam?
 ---
 
 7. 
