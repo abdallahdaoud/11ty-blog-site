@@ -1,5 +1,5 @@
 {
-    "logo": "/assets/blog/466967958_968120585343185_6559607668358431395_n.jpg",
-    "Welcome": "hello!",
-    "intro": "I use this \"space\" to document my adventures in front-end development, sharing how I’ve overcome issues I’ve run into, useful resources, and more."
+  "logo": "/assets/blog/logo.png",
+  "Welcome": "hello!",
+  "intro": "I use this \"space\" to document my adventures in front-end development, sharing how I’ve overcome issues I’ve run into, useful resources, and more."
 }
