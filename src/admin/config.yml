@@ -4,6 +4,16 @@ backend:
 media_folder: "public/assets/blog"
 public_folder: "/assets/blog"
 collections:
+  - name: "home"
+    label: "Home Page"
+    files:
+      - label: "Home Page Content"
+        name: "home"
+        file: "src/_data/home.json"
+        fields:
+          - { label: "Welcoming", name: "Welcome", widget: "string" }
+          - { label: "introduction", name: "intro", widget: "string" }
+
   - name: "blog"
     label: "Blog"
     folder: "src/blog"
