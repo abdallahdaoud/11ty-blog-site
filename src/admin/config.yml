@@ -13,6 +13,7 @@ collections:
         fields:
           - { label: "مرحبا", name: "Welcome", widget: "string" }
           - { label: "مقدمة", name: "intro", widget: "string" }
+          - { label: "Logo", name: "logo", widget: "image" }
 
   - name: "blog"
     label: "Blog"
